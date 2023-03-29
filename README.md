@@ -1,4 +1,4 @@
-# Submission Jarkom<br>
+# Submission Jarkom-Dicoding<br>
 
 Proyek Membangun Web Server<br>
 1. OS yang digunakan Ubuntu Server 22.04.1<br> 
